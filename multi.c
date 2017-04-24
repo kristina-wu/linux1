@@ -1,4 +1,4 @@
-#include "inlude/multi.h"
+#include "include/multi.h"
 int multi(int a,int b)
 {
     int k;
