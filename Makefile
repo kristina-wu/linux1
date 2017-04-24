@@ -6,4 +6,4 @@ multi.o:multi.c
     gcc -c multi.c
     
 clean:
-    rm main*.o
+    rm main *.o
