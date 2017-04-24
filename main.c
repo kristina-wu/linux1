@@ -1,5 +1,5 @@
 #include <stdio.h>
-#inclde "include/multi.h"
+#include "include/multi.h"
 int main()
 {
     int multi (int a,int b);
