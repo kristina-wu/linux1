@@ -5,5 +5,5 @@ main.o:main.c
 multi.o:multi.c
         gcc -c multi.c
     
-clean
+clean：
         rm main *.o
